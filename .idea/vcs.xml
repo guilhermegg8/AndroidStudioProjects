@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Tarefa01Kotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/codelab2/codelab-android-compose" vcs="Git" />
   </component>
 </project>
